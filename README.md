@@ -1,7 +1,12 @@
-### Hi there 👋
+![plot](./Images/Omkar.png)
 
+👨‍🎓My name is Omkar Nikhal. I am currently pursuing Masters Degree in Computer Science at USC. <br />
+💻I am a **Web Developer** and **iOS Mobile Developer**. <br />
+🏆🥇I have published 5 research papers in A+ ranked conferences and international journals<br />
+📫 **Email** me at: nikhal@usc.edu <br/>
+⚡ **Fun Fact**: I love to play chess.
 <!--
-**gitpushOmnik/gitpushOmnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anushka-deshpande/anushka-deshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
