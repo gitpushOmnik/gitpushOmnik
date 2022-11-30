@@ -1,7 +1,7 @@
 ![plot](Omkar.png)
 
 👨‍🎓My name is Omkar Nikhal. I am currently pursuing Masters Degree in Computer Science at USC. <br />
-🌱I’m currently seeking 2023 software development engineer internships.
+🌱I’m currently seeking 2023 software development engineer internships.<br />
 💻I am a **Web Developer** and **iOS Mobile Developer**. <br />
 🏆🥇I have published 5 research papers in A+ ranked conferences and international journals.<br />
 📫 **Email** me at: nikhal@usc.edu <br/>
