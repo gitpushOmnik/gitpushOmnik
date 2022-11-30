@@ -1,4 +1,4 @@
-![plot](./Images/Omkar.png)
+![plot](Omkar.png)
 
 👨‍🎓My name is Omkar Nikhal. I am currently pursuing Masters Degree in Computer Science at USC. <br />
 💻I am a **Web Developer** and **iOS Mobile Developer**. <br />
