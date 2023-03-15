@@ -15,13 +15,13 @@
 
 ## Projects
 
-1. [Guardener]
+1. [Guardener](https://github.com/gitpushOmnik/Guardener)
 
-2. [CheqOut]
+2. [CheqOut](https://github.com/gitpushOmnik/CheqOut)
 
-3. [Sign Language Translator]
+3. [Sign Language Translator](https://github.com/gitpushOmnik/Sign-Language-Translator)
 
-4. [Tech Hive]
+4. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
 
 ## Research Papers
 
