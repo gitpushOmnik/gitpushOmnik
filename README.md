@@ -1,4 +1,4 @@
-![plot](Omkar.png)
+![plot](Omkar_Banner.png)
 
 👨‍🎓My name is Omkar Nikhal. I am currently pursuing Masters Degree in Computer Science at USC. <br />
 🌱I’m currently seeking 2023 software development engineer internships.<br />
