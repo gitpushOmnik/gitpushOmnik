@@ -5,7 +5,7 @@
 🎓My name is Omkar Nikhal. I am currently pursuing my masters in Computer Science at USC. <br />
 📱I am a creative **iOS Developer** as well as an insightful **Data Scientist**📊<br />
 🏆🥇I have published 5 research papers in A+ ranked conferences and international journals<br />
-🎒I have won several intercollegiate hackathons in the domain of iOS development and I was the mobile team lead of Google Developer Student Club <br />
+🎒I was the iOS team lead of Google Developer Student Club and have won several intercollegiate hackathons in the domain of mobile development <br />
 📄 I have written articles on Medium.com and delivered seminars as well as tech talks on Cryptography, Big Data and iOS Development <br />
 📫 **Email** me at: nikhal@usc.edu <br/>
 📱LinkedIn : [Omkar Nikhal](https://www.linkedin.com/in/omkar-nikhal/)
