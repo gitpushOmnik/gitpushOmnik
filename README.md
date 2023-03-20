@@ -18,9 +18,9 @@
 
 1. [Guardener](https://github.com/gitpushOmnik/Guardener)
 
-2. [Vehicular Traffic Analysis](https://github.com/gitpushOmnik/Vehicular-Traffic-Analysis)
+2. [CheqOut](https://github.com/gitpushOmnik/CheqOut)
 
-3. [CheqOut](https://github.com/gitpushOmnik/CheqOut)
+3. [Vehicular Traffic Analysis](https://github.com/gitpushOmnik/Vehicular-Traffic-Analysis)
 
 4. [Sign Language Translator](https://github.com/gitpushOmnik/Sign-Language-Translator)
 
