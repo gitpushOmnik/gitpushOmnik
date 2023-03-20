@@ -24,7 +24,9 @@
 
 4. [Sign Language Translator](https://github.com/gitpushOmnik/Sign-Language-Translator)
 
-5. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
+5. [Disk Scheduler Visualizer](https://github.com/gitpushOmnik/Disk-Scheduler-Visualizer)
+
+6. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
 
 ## Research Papers
 
