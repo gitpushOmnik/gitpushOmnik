@@ -28,6 +28,11 @@
 
 6. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
 
+7. [Hogwarts Paper] (https://github.com/gitpushOmnik/Hogwarts-Paper-AR)
+
+8. [AR Ruler] (https://github.com/gitpushOmnik/AR-Ruler)
+
+
 ## Research Papers
 
 1. [A decentralized aggregation mechanism for training deep learning models using smart contract system for bank loan prediction](https://arxiv.org/abs/2011.10981)
