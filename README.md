@@ -28,9 +28,9 @@
 
 6. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
 
-7. [Hogwarts Paper] (https://github.com/gitpushOmnik/Hogwarts-Paper-AR)
+7. [Hogwarts Paper](https://github.com/gitpushOmnik/Hogwarts-Paper-AR)
 
-8. [AR Ruler] (https://github.com/gitpushOmnik/AR-Ruler)
+8. [AR Ruler](https://github.com/gitpushOmnik/AR-Ruler)
 
 
 ## Research Papers
