@@ -20,13 +20,13 @@
 
 2. [CheqOut](https://github.com/gitpushOmnik/CheqOut)
 
-3. [Vehicular Traffic Analysis](https://github.com/gitpushOmnik/Vehicular-Traffic-Analysis)
+3. [Sign Language Translator](https://github.com/gitpushOmnik/Sign-Language-Translator)
 
-4. [Sign Language Translator](https://github.com/gitpushOmnik/Sign-Language-Translator)
+4. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
 
-5. [Disk Scheduler Visualizer](https://github.com/gitpushOmnik/Disk-Scheduler-Visualizer)
+5. [Vehicular Traffic Analysis](https://github.com/gitpushOmnik/Vehicular-Traffic-Analysis)
 
-6. [Tech Hive](https://github.com/gitpushOmnik/Tech-Hive)
+6. [Disk Scheduler Visualizer](https://github.com/gitpushOmnik/Disk-Scheduler-Visualizer)
 
 7. [Hogwarts Paper](https://github.com/gitpushOmnik/Hogwarts-Paper-AR)
 
