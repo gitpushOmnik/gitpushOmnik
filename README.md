@@ -11,15 +11,6 @@
 📫 **Email** me at: nikhal@usc.edu <br/>
 📱LinkedIn : [Omkar Nikhal](https://www.linkedin.com/in/omkar-nikhal/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitpushOmnik&show_icons=true" alt="gitpushOmnik" />
- 
- <h4 align="center">Mostly Using:</h4>
-<p align="center">Swift | C++ | Python</p>
-
-<p align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitpushOmnik" alt="gitpushOmnik" />
- </p>
-
 💻Some of my works as well as papers are listed below<br />
 
 ## Projects
