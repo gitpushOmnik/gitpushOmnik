@@ -17,7 +17,7 @@
 
 1. [SearchIt](https://github.com/gitpushOmnik/SearchIt)
 
-2. [Ebay Product Search]()
+2. [SearchItWeb](https://github.com/gitpushOmnik/SearchItWeb)
    
 3. [Guardener](https://github.com/gitpushOmnik/Guardener)
 
