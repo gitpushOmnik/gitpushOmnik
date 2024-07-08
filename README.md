@@ -11,8 +11,6 @@
 📫 **Email** me at: nikhalomkar@gmail.com <br/>
 📱LinkedIn : [Omkar Nikhal](https://www.linkedin.com/in/omkar-nikhal/)
 
-💻Some of my works as well as papers are listed below<br />
-
 ## Projects
 
 1. [SearchIt](https://github.com/gitpushOmnik/SearchIt)
