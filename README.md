@@ -8,7 +8,7 @@
 🏆🥇I have published 5 research papers in A+ ranked conferences and international journals<br />
 🎒I was the iOS team lead of Google Developer Student Club and have won several intercollegiate hackathons in the domain of mobile development <br />
 📄 I have written articles on Medium.com and delivered seminars as well as tech talks on Cryptography, Big Data and Full Stack Development <br />
-📫 **Email** me at: nikhal@usc.edu <br/>
+📫 **Email** me at: nikhalomkar@gmail.com <br/>
 📱LinkedIn : [Omkar Nikhal](https://www.linkedin.com/in/omkar-nikhal/)
 
 💻Some of my works as well as papers are listed below<br />
